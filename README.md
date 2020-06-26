@@ -15,7 +15,7 @@
 
 ## Bootloader Firmware
 
-- Beta: OpenCore `0.0.6`
+- Beta: OpenCore `0.6.0`
 
 ## Post-Installation
 
