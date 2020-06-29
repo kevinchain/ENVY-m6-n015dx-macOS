@@ -33,4 +33,5 @@ Updating...
 
 - [AppleALC Patch by MacPeet](https://www.insanelymac.com/forum/topic/311293-applealc-%E2%80%94-dynamic-applehda-patching/?do=findComment&comment=2726082)
 - [HeliPort](https://github.com/zxystd/HeliPort)
+- ACPI Refined from Hackintosh Vietnam - Opencore group by @Duc Loi
 - Kext authors mentioned in [kexts/README.md](OC/Kexts/README.md)
