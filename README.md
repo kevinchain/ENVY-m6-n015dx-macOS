@@ -23,11 +23,9 @@ Updating...
 
 ## Known Issues
 
-- Battery Manager needs to be patched
 - Subwoofer does not work
 - Wifi: The itlwm kext and HeliPort are still under development, so the following errors still exist:
-  - Wifi dropping issue
-  - Unable to save wifi password
+  - Wifi speed dropping issue
 
 ## Credits
 
